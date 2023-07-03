@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0225e0bf-77b6-4bf6-97f3-68b3552ef735" name="Changes" comment="2.4">
+    <list default="true" id="0225e0bf-77b6-4bf6-97f3-68b3552ef735" name="Changes" comment="2.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pacote-download/projeto-glass-html5/_css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/pacote-download/projeto-glass-html5/_css/estilo.css" afterDir="false" />
@@ -61,7 +61,8 @@
       <workItem from="1688079246159" duration="6229000" />
       <workItem from="1688089341206" duration="2987000" />
       <workItem from="1688157485301" duration="3173000" />
-      <workItem from="1688325865349" duration="3294000" />
+      <workItem from="1688325865349" duration="3411000" />
+      <workItem from="1688419190353" duration="1058000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -135,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688162211478</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2.5">
+      <option name="closed" value="true" />
+      <created>1688329295548</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688329295548</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +161,7 @@
     <MESSAGE value="2.2" />
     <MESSAGE value="2.3" />
     <MESSAGE value="2.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.4" />
+    <MESSAGE value="2.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.5" />
   </component>
 </project>
